@@ -13,6 +13,15 @@
 - **Já vi alguém oferecendo isso como serviço?** Sim.
 - **Existe algum nicho onde essa habilidade é valorizada?** Suporte técnico, suporte de infraestrutura.
 
+## Aqui você vai analisar cada habilidade e perguntar:
+- [X] Alguém pagaria por isso?
+
+- [X] Existe demanda por essa habilidade?
+
+- [X] Posso oferecer isso como serviço ou produto?
+
+ - [X] Essa habilidade resolve algum problema comum?
+
 # ✅ Checklist de Caminhos
 
 ## 01 - Oferecer serviços em plataformas
